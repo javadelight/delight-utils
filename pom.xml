@@ -25,13 +25,13 @@
 		<dependency>
 			<groupId>org.javadelight</groupId>
 			<artifactId>delight-concurrency</artifactId>
-			<version>0.0.5</version>
+			<version>0.0.6</version>
 		</dependency>
 
 		<dependency>
 			<groupId>org.javadelight</groupId>
 			<artifactId>delight-strings</artifactId>
-			<version>0.0.3</version>
+			<version>0.0.8</version>
 		</dependency>
 
 		<!-- only for gwt maven plugin!!! -->
